@@ -1,6 +1,6 @@
 //Name:Fazlı Güdül
 //Section number:2
-//Student number:22002785
+
 #include "DVDStoreManagementSystem.h"
 #include <iostream>
 
